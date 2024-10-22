@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover_photo": "https://i.ibb.co/bRnNLW8/flat-lay-desktop-with-notebook-pizza.jpg",
+      "author_img": "https://i.ibb.co/2FsV3F9/Ellipse-1.png",
+      "author_name": "John Doe",
+      "published_date": "2024-03-15",
+      "reading_time": 10,
+      "title": "The Art of Fiction",
+      "hashtags": ["writing", "creativity", "fiction"]
+    },
+    {
+      "id": 2,
+      "cover_photo": "https://i.ibb.co/bRnNLW8/flat-lay-desktop-with-notebook-pizza.jpg",
+      "author_img": "https://i.ibb.co/2FsV3F9/Ellipse-1.png",
+      "author_name": "Jane Smith",
+      "published_date": "2024-03-14",
+      "reading_time": 8,
+      "title": "Exploring the Unknown",
+      "hashtags": ["adventure", "exploration", "travel"]
+    },
+    {
+      "id": 3,
+      "cover_photo": "https://i.ibb.co/bRnNLW8/flat-lay-desktop-with-notebook-pizza.jpg",
+      "author_img": "https://i.ibb.co/2FsV3F9/Ellipse-1.png",
+      "author_name": "Alex Johnson",
+      "published_date": "2024-03-13",
+      "reading_time": 15,
+      "title": "The Science of Happiness",
+      "hashtags": ["psychology", "happiness", "science"]
+    },
+    {
+      "id": 4,
+      "cover_photo": "https://i.ibb.co/bRnNLW8/flat-lay-desktop-with-notebook-pizza.jpg",
+      "author_img": "https://i.ibb.co/2FsV3F9/Ellipse-1.png",
+      "author_name": "Emily Brown",
+      "published_date": "2024-03-12",
+      "reading_time": 12,
+      "title": "Mastering Productivity",
+      "hashtags": ["productivity", "efficiency", "success"]
+    },
+    {
+      "id": 5,
+      "cover_photo": "https://i.ibb.co/bRnNLW8/flat-lay-desktop-with-notebook-pizza.jpg",
+      "author_img": "https://i.ibb.co/2FsV3F9/Ellipse-1.png",
+      "author_name": "Michael Lee",
+      "published_date": "2024-03-11",
+      "reading_time": 7,
+      "title": "The Power of Positive Thinking",
+      "hashtags": ["positivity", "self-improvement", "mindfulness"]
+    }
+  ]
+  
