@@ -13,6 +13,10 @@ This is a fully responsive React application developed with Vite and styled usin
   - Displays bookmarked titles and tracks the total reading time for marked articles.
   - Updates dynamically when articles are marked as read.
 - **Fully Responsive**: Optimized for all screen sizes with a clean, mobile-first design.
+
+## Live Demo
+
+Check out the live version of the app [here](https://glittery-sprinkles-79f635.netlify.app/).
   
 ## Technologies Used
 
